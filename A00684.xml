@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lifes farewell. Or A funerall sermon preached at Saint Iohns in the Deuises in Wilshiere, the 30. of August last 1614 At the funerall of Iohn Drew Gentleman. By George Ferebe Master of Arts, and preacher of the Word at Bishops Cannings in Wilshire.</title>
+            <author>Ferebe, George, 1573-1623.</author>
+         </titleStmt>
+         <extent>Approx. 55KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A00684</idno><idno type="EEBO-CITATION">99837885</idno>
+  <idno type="VID">2232</idno>
+  <idno type="EEBO-PROQUEST">2240900513</idno>
+  <idno type="STC">STC 10818</idno>
+  <idno type="STC">ESTC S102085</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99837885e"/>
+            <note>(EEBO-TCP ; phase 2, no. A00684)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 2232)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 794:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lifes farewell. Or A funerall sermon preached at Saint Iohns in the Deuises in Wilshiere, the 30. of August last 1614 At the funerall of Iohn Drew Gentleman. By George Ferebe Master of Arts, and preacher of the Word at Bishops Cannings in Wilshire.</title>
+                  <author>Ferebe, George, 1573-1623.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edw. Griffin, for Ralph Mabbe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1615.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Drew, John, d. 1614 --  Sermons.</term>
+               <term type="topical_term">Funeral sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:2232:1"/>
+            <pb facs="tcp:2232:1"/>
+            <p>Lifes farewell. OR A FVNERALL SERMON PREACHED at <hi>Saint Iohns</hi> in the <hi>Deuises</hi> in <hi>Wilshiere,</hi> the 30. of AVGVST last 1614. At the Funerall of <hi>John Drew Gentleman.</hi> BY GEORGE FEREBE Master <hi>of</hi> Arts, <hi>and</hi> Preacher <hi>of the</hi> Word <hi>at</hi> Bishops Cannings <hi>in</hi> WILSHIRE.</p>
+            <q>
+               <hi>Mors vltima linea rerum.</hi>
+            </q>
+            <p>LONDON. Printed by <hi>Edw. Griffin,</hi> for <hi>Ralph Mabbe,</hi> 1615.</p>
+            <pb facs="tcp:2232:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:2232:2"/>
+            <head>
+               <hi>TO THE RIGHT HONORABLE WILLIAM Lord KNOLLES Baron of Greyes, Treasurer</hi> of his Maiesties houshold, Master of his Maiesties Wards <hi>and Liueries, and one of the Lords of his</hi> Ma<g ref="char:EOLhyphen"/>iesties most Honorable priuie Counsell: <hi>The supreme felicitie of both worlds heartily wished.</hi>
+            </head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His funerall Sermon preached vpon the death of a Gentleman, my pari<g ref="char:EOLhyphen"/>shioner and neighbour; being by the importunitie of some brought to the Presse (I hope) for the benefit of all; comes thus to light vnder the gratious and honorable Lyuorie of your Lordships name; as a remonstrance of that dutie and thankfull acknowledgment, where<g ref="char:EOLhyphen"/>vnto I am engaged: for those many reall and liberall encouragements, my rawer and riper studies haue re<g ref="char:EOLhyphen"/>ceiued from that hand of bounty, which to my selfe and
+<pb facs="tcp:2232:3"/> Brethren, (aswell during our many yeeres abode in the Vniuersitie, as also since) hath alwaies layen open; whereby as we all acknowledge the vttermost of our religious respect and obseruance, vnable to satisfie the least part of that debt due to your Lordship: So wee trust the most iust God (who leaues not a cup of cold water vnrewarded) will returne your Lordship dou<g ref="char:EOLhyphen"/>ble and treble remuneration. What entertainment it may finde in the broad world, I regard not; If from your Lordship it obteine the least approbation, I haue my hearts desire; which shall euer spend it selfe in prayer to God, for the compleating heere, and crow<g ref="char:EOLhyphen"/>ning hereafter, of your Lordships manifold graces and vertues.</p>
+            <closer>
+               <signed>
+                  <hi>Your Lordships most bounden and dutifull</hi> Chaplaine <hi>GEORGE FEREBE.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:2232:3"/>
+            <head>THE TEXT.</head>
+            <epigraph>
+               <q>
+                  <bibl>2. Sam. Chap. 14. vers. 14.</bibl> For wee must needs die.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">R</seg>Ape, Incest, Murther: three dam<g ref="char:EOLhyphen"/>nable Acts, occasioned the de<g ref="char:EOLhyphen"/>liuery of these funerall wordes. For (Right worshipfull, chri<g ref="char:EOLhyphen"/>stian and blessed brethren in our Lord and Sauiour beloued) thus stood the case: <hi>Amnon</hi> for<g ref="char:EOLhyphen"/>ced his owne sister <hi>Thamar:</hi>
+               <note place="margin">2. Sam. 13. 14.</note> shee with griefe of soule reueales her late receiued wrong to <hi>Absolon</hi> her brother: Hee vowes reuenge <note place="margin">vers. 19.</note> on the incestuous person with no lesse then <hi>fratricide,</hi> shedding of brother-blood, a more than murtherous resolution. The manner of performing this was plot<g ref="char:EOLhyphen"/>ted thus: <hi>Absolon</hi> inuites his father <hi>Dauid</hi> vnto a <note place="margin">vers. 24.</note> sheep-sheering-feast: the King himselfe goes not, but giues his children leaue to visit him; among these (as it seemed by the earnest invitation) the chiefest and most desired guest, yea the absolute marke that <hi>Absolon</hi> aimed at was <hi>Amnon,</hi> who sitting at boorde (without all suspect of trecherie) was suddenly surpri<g ref="char:EOLhyphen"/>sed
+<pb n="2" facs="tcp:2232:4"/> by <hi>Absolons</hi> hyred slaues, mercenary deaths-men, and there kill'd dead in the place. A bloudy banket, when for the first messe the feast-maker serues in mur<g ref="char:EOLhyphen"/>ther. <note place="margin">vers. 29.</note> A short and a sharpe meale, the dinners done as soone as it is begun, euery man at this stands wonde<g ref="char:EOLhyphen"/>rously amased, the authour and the Actors flye, the fearefull beholders presently auoide the roome, and hasten backe to the Court. But tidings came before to the King (first a false alarum) that all his sonnes were slaine, yet <hi>Ionadab</hi> coniectures right, <hi>Ammon on<g ref="char:EOLhyphen"/>ly is dead</hi> (saith he) because <hi>Absolon</hi> had reported so, since first he forced his sister <hi>Thamar.</hi> Now <hi>Absolon</hi>
+               <note place="margin">vers. 32.</note> long after this came not into his fathers sight, liuing three yeeres a banished man with <hi>Talmai</hi> sonne of <hi>A<g ref="char:EOLhyphen"/>mihud</hi> King of Geshur; yet <hi>Ioab</hi> was his friend. He <note place="margin">vers. 37.</note> sent to Tekoah for a subtile woman, put mourning <note place="margin">cap. 14. 2.</note> clothes vpon her backe, and a parable in her mouth, lessoned her how to carry her selfe, and what to say; She cryed out, helpe (ô King) I am a widdow, and mine husband is dead: I had two sonnes who stroue together in the field, and (there being none to part them) the one slew the other in the quarrell, so the fa<g ref="char:EOLhyphen"/>milie of him that is slaine, is risen against thine hand<g ref="char:EOLhyphen"/>maide, and would take from me this sonne that doth suruiue, thus will they destroy the heire too, and so shall quench my sparkle that remaines, and leaue vn<g ref="char:EOLhyphen"/>to mine husband, neither name nor yet posteritie on earth.</p>
+            <p>This tale ended, the King bad her returne to her house, telling her he would take an order for her: yet shee continueth instant in her suite; the King replyed
+<pb n="3" facs="tcp:2232:4"/> he that speakes against thee, shall not touch thee; Yea but sweare (quoth shee) it shall be so, the King answered, <hi>As the Lord liueth, not an haire of thy sonne shall perish.</hi> Why then (saith she) as one that is faul<g ref="char:EOLhyphen"/>tie, dost thou giue contrary sentence in thy sonne <hi>Ab<g ref="char:EOLhyphen"/>solon,</hi> grieue not his spirit, send for him backe, admit him into thy presence, let him not stand a banished man, what is done cannot bee vndone, one time or other euery one must hence, <hi>For we must needs die.</hi>
+            </p>
+            <p>Thus much in effect this cunning womans speech conteyneth. So heere you haue the knitting of the Text to the precedents.</p>
+            <p>There are no more in this verse read vnto you, then <note place="margin">The diui<g ref="char:EOLhyphen"/>sion.</note> fiue words, those, but fiue sillables, those, full fiue parts. First, we haue a <hi>reason</hi> to be patient in mise<g ref="char:EOLhyphen"/>rie, because of an expectation of the last approaching euill, <hi>death.</hi> Secondly, the <hi>generalitie</hi> of it. Thirdly, the <hi>power</hi> and authoritie of the act that decreeth it. Fourthly, the <hi>necessitie</hi> of it. Fiftly, the <hi>doome</hi> it selfe, <hi>mortalitie.</hi>
+            </p>
+            <list>
+               <item>1. <hi>For,</hi> makes the whole a reason perswading to patience in misery.</item>
+               <item>2. <hi>Wee,</hi> shewes the generalitie.</item>
+               <item>3. <hi>Must,</hi> points at-Heauens authoritie.</item>
+               <item>4. <hi>Needes,</hi> layeth downe the necessitie.</item>
+               <item>5. <hi>Die,</hi> tyeth all the premisses to a true conclusion, <hi>Mortalitie.</hi>
+               </item>
+            </list>
+            <p>That we may the more safely and handsomely fall vpon the contingent and occasion of the words, let vs <note place="margin">For.</note> in this first particle take a view of the parties from whom, and to whom this speech is directed, and of
+<pb n="4" facs="tcp:2232:5"/> their distance and disproportion between each other, that is to say, a woman, a weake vessel, weake in iudg<g ref="char:EOLhyphen"/>ment, to a man of noble endowments; a subiect to her Soueraigne, a silly Tekoite to a mighty Monarch, <note place="margin">2. Sam. 14 4. <hi>Obserue.</hi>
+               </note> doth boldly deliuer this speech. And reason good. For when great ones doe forget themselues, they may not scorne if God doe put them in minde of their du<g ref="char:EOLhyphen"/>ties, though it be by meane ones. A dumb Asse, may reprooue a man (if hee sinne) though a Prophet, as there in <hi>Balaam.</hi> A silly woman may aduise a man, if he forget himselfe, though a King, as heere in <hi>Dauid.</hi>
+               <note place="margin">Num. 22. 30.</note>
+               <hi>Dauid</hi> is a King indeed, and a Prophet too; yet the abundant meeknesse of his heart, and tender loue vnto the sonnes of his owne loynes, had well-nigh made him sinne; his naturall passions put him almost into impatience. The sudden and vnseasonable death of his two vngratious sonnes, first of <hi>Ammon,</hi> then of <hi>Absolon,</hi> were (as I thinke) a paire of match<g ref="char:EOLhyphen"/>lesse crosses. It touched him neere, when his eyes di<g ref="char:EOLhyphen"/>stilled salt teares, and his heart powred out deepe groanes and his tongue pronounc't smarting wordes with sharpe accents of griefe, and lamenta<g ref="char:EOLhyphen"/>tion. See, see what a twinne of deepe and inward complaints this good Father maketh for a couple of bad children; <hi>Amnon</hi> slaine sitting at a feast sudden<g ref="char:EOLhyphen"/>ly <note place="margin">2. Sam. 13. 29. 2. Sam. 15. 28.</note> by the plot of <hi>Absolon: Absalon</hi> slaine vnder a tree, hanging by the hayre of his head, at the com<g ref="char:EOLhyphen"/>mand of <hi>Ioab;</hi> see (I say) how feelingly the Father doth bewaile the losse of both; First the death of <hi>Amnon</hi> thus: <hi>Assoone as Ionadab had left speaking, be<g ref="char:EOLhyphen"/>hold</hi>
+               <note place="margin">2. Sam. 13. 36.</note>
+               <hi>the Kings sonnes came, lifted vp their voyces all, and</hi>
+               <pb n="5" facs="tcp:2232:5"/>
+               <hi>wept, and the King also, and all his seruants wept excee<g ref="char:EOLhyphen"/>dingly sore.</hi> Next the death of <hi>Absolon</hi> in this forme <note place="margin">2. Sam. 18 33.</note> of words: <hi>The King was mou'd and went vp to the cham<g ref="char:EOLhyphen"/>ber ouer the gate and wept, and as he went; thus he said: O my sonne Absolon my sonne my sonne Absolon, would God I had died for thee! O Absolon my sonne my sonne.</hi>
+            </p>
+            <p>As if his soule had bin fastened to the memorie of his sonne <hi>Absolons</hi> death, and his tongue tyed to the deliuery of his sonne <hi>Absolons</hi> name. Alas good <hi>Da<g ref="char:EOLhyphen"/>uid,</hi> thou wast a blessed father, of vnblessed sonnes: tho'ne a very Sodomite, for he defiled thy daughter <note place="margin">2. Sam. 13 14.</note> his owne sister: the other a murtherer of his brother and an open traytor to thy selfe his Father, and yet <note place="margin">2. Sa. 15. 10.</note> art thou so naturall to these vnnaturall Impes to la<g ref="char:EOLhyphen"/>ment the fall of those that would haue wrought thy ruine, &amp; haue brought thy gray haires to the graue with sorrow? Patience good <hi>Dauid.</hi> Doth the vntim<g ref="char:EOLhyphen"/>ly perishing, as of the former heere, so of the latter <note place="margin">2. Sa. 18. 33.</note> hereafter, greiue thy soule, and vexe thy wounded spirit? It is euen so: and questionlesse (beloued) flesh and bloud in him could doe no lesse: their death was much, the manner of their death was <note place="margin">2. Sa. 12. 22. 23.</note> more; that toucht him most. When his infant died his sorrow ceased, because in act, being sinlesse, hee knew it went to God; but these died in their sinnes, actuall sins, and those late, heinous sinnes, and those sinnes vnrepented of, therefore was he doubtfull, fearefull of their future blisse, <hi>Hinc illae lachrimae</hi> not that they died, but that they so died, suddenly, vio<g ref="char:EOLhyphen"/>lently, desperately; this, and chiefly this, was the cause and chiefest cause, that the Kings perplexed
+<pb n="6" facs="tcp:2232:6"/> soule fals into this current of ingeminated and tre<g ref="char:EOLhyphen"/>bled deplorations. Thus Gods children haue their woes and huge ones too, troubles many and mighty too; and howsoeuer at first they are tart, and irke<g ref="char:EOLhyphen"/>some; yet well considered, and well receiued, they are good for mee, and good for thee, and good for all that would be saued: good for Kings, yea good for good King <hi>Dauid;</hi> his owne mouth speakes it, <hi>It is good for mee that I haue beene in trouble.</hi>
+               <note place="margin">Psalm.</note>
+            </p>
+            <q>
+               <lg>
+                  <l>Caeli virga salus licet aspera Regibus altis</l>
+                  <l>Dura manus Domini Principibus{que} bona est.</l>
+               </lg>
+               <lg>
+                  <l>It is health for high mortals to be whipt with heauens rod,</l>
+                  <l>Good, to feele the hard hand-stroake of the high supreme God.</l>
+               </lg>
+            </q>
+            <p>For as the vniuersall floude drown'd not the Arke but the more the floude increased the higher the <note place="margin">Gen. 7. 18</note> Arke was mounted. So these waters of trouble the deeper they are, the neerer they lift vs vp to heauen. It is fire that purgeth gold from drosse, it is the winde that seuereth corne from chaffe, it is the grindstone that scoureth rust from iron, it is trouble that maketh the proudest <hi>Nabuchadonosor</hi> confesse that the most high hath power ouer the kingdomes of men. A <note place="margin">Dan. 4. 3.</note> vine the more it is pruned the faster it sprowteth: Pepper the more it is braied the hotter it tasteth: Frankincense the more it is burned the sweeter it smelleth; flesh and bloud the more it is salted, the better it sauoureth; the more it is purged, the purer it waxeth; the holier the heauenlier it liueth, the
+<pb n="7" facs="tcp:2232:6"/> fitter for God. If then crosses come vppon vs they should not be vnwelcome to vs. It is our duty with thankes to receiue them, with patience to keep them, in hope to digest them, with wisedome to apply them, in meditation to bury them, so in the end they shall end to vs in vnspeakeable glory, and pos<g ref="char:EOLhyphen"/>sesse vs of neuer ending ioyes in the pallace of eterni<g ref="char:EOLhyphen"/>tie. And let this be the period of the first part being the first word, <hi>For,</hi> which maketh the whole a reason perswading to patience in misery. <hi>For wee must needes die.</hi>
+            </p>
+            <p>
+               <note place="margin">2 Wee</note> The second principall point is the generality of our mortality in the next word, <hi>Wee.</hi> Wee, that is, Thou the greatest, I the meanest, thou the richest, I the poorest, thou the highest, I the lowest, thou and I and all of all degrees betweene vs, <hi>Wee</hi> must needes die: all mortals equalled with vs; all superiours rankt aboue vs, all inferiours placed below vs; we, all we must needs die. All strangers vnknowne to vs, all our neighbours round about vs, all our friendes that dearely loue vs, all our kindred neuer so neere vs, all our fathers who begate vs, all our mothers who conceiued vs, all our wiues sweete comforts to vs, in a word our children all that come out of vs, we, all we must needs die. Are we men? and do we liue? we must needs die; <hi>Dauid</hi> concluded it with a questi<g ref="char:EOLhyphen"/>on questionlesse; <hi>what man is he that liueth and shall not</hi>
+               <note place="margin">Psal.</note>
+               <hi>see death?</hi> And <hi>Paul</hi> directly speakes to this, and that at large in <hi>Adam death went ouer all,</hi> in <hi>whom all haue sinned.</hi> And <hi>Salomon</hi> saw asmuch in the first mans fall, <note place="margin">Ro. 5. 12</note> thence (as it seemes) inferring this: <hi>Wis.</hi> 4. <hi>Through</hi>
+               <pb n="8" facs="tcp:2232:7"/>
+               <hi>the enuie of the Deuill death entred into all the world.</hi> What into all the world? This then dethroneth <hi>Polycrates</hi> from the height of his worldly felicitie, abateth the plumes of <hi>Alexanders</hi> triumphs, trophies and conquests, humbleth the pride of <hi>Craesus</hi> sitting abroode vpon the heapes of his riches, to consider that they must come downe and make their beddes in the dust, and become <hi>putida &amp; putrida cadauera,</hi> lothsome and rotten carcases; yee muckwormes of the world, and couetous whom God abhorreth; yee rich ones, great ones, proud ones of this earth who put the euill day farre from you, hang downe your hauty heades, and know that you must of necessity subscribe to this vnappealeable decree of my Text which hath passed ouer al mankind, <hi>We must needs die.</hi> Shall I further make this present point concerning our generall mortalitie, somwhat more familiar to vs by some fit similitudes, shall I haue your patience? Why then (me thinkes) the wittie Chesse play doth <note place="margin">Simile.</note> prettily resemble it, there is king, queene, bishop and the rest rankt in their orders, euen to the lowest pawne, and while the game holdes out, the highest stands subiect to the checke, and when all is donne all kinde of Actors in that kinde of play are last of all huddled vpp all and bagged vp altogether. How like are liuing men to growing trees; dead bodies vnto saplesse ones; rotten consumed carcasses to burnt ones, whose dust once mixt admits no separa<g ref="char:EOLhyphen"/>tion <hi>till the iudgement day;</hi> for as trees while they grow <note place="margin">Simile.</note> are apparantly knowne by their seuerall kindes, and commonly called by their names, but being felled,
+<pb n="9" facs="tcp:2232:7"/> fired, consumed, none can distinguish their ashes; So men while they liue do very much differ in office, title, person, place and power, but when they bee dead and resolued into cinders, by no meanes can they then bee directly diuided: as there is the like ashes of the shrub and the cedar; so there is the like dust of the King and the beggar. In this the migh<g ref="char:EOLhyphen"/>tiest more then the meanest haue no priuiledge: Shew me the gallant Conquerors of the world, are they not all conquered by this vndaunted vniuersall Conqueror death? yes; and we all out of their perso<g ref="char:EOLhyphen"/>nall precedents must needs confesse the truth of this Text we must needs die. O master lesse death <hi>quam nec repulsa nec fuga nec artes domant,</hi> Which neither foile nor flight nor cunning could yet euer discomfite: It was ment generally of the whole masse of mankinde. <hi>Nosce teipsum,</hi> i. <hi>hominem ideoque mortalem,</hi> Know thy selfe, that is, to be a man, a man and therefore mor<g ref="char:EOLhyphen"/>tall; So singeth <hi>Dauid</hi> sweetely <hi>Let the Heathen know</hi>
+               <note place="margin">Ps. 9. 20.</note>
+               <hi>themselues to be but men,</hi> men; and therefore mortall; hence it is that the great Macedonian King would daily be remembred with this loude alarum <hi>Homoes Phillippe,</hi> Phillip thou art a man, (a man and there<g ref="char:EOLhyphen"/>fore mortall) that so being put in minde of his mor<g ref="char:EOLhyphen"/>tall condition he might the lesse insult ouer the sub<g ref="char:EOLhyphen"/>dued Athenians. That mighty rich Easterne noble man <hi>Iob</hi> is not ashamed to confesse his descent; see the ancienth ouse and pedegree whence he deriues him<g ref="char:EOLhyphen"/>selfe &amp; the goodly kindred he boldly allieth himselfe to, <hi>I said to corruption thou art my father, &amp; to the worme</hi>
+               <note place="margin">Iob. 17. 14</note>
+               <hi>thou art my mother and my sister,</hi> and in another place he
+<pb n="10" facs="tcp:2232:8"/> sets vp his rest for another world, <hi>solum mihi remanet sepulchrum,</hi> only the graue remaineth for me; a braue <note place="margin">Iob. 17.</note> resolution, and surely if wee would seriously thinke on our ends, we should be a great deale more sinlesse in our liues then wee are; the place that telleth vs so in Scripture is very well knowne, <hi>Remember thine end</hi>
+               <note place="margin">Eccles. 7. 36.</note>
+               <hi>and thou shalt neuer sinne;</hi> not that thou shalt not at all sinne, but that thou shalt the lesse sinne, because thou shalt feare to sin. For not any thought more fruit<g ref="char:EOLhyphen"/>full to keepe vs from offending the Lord, then that of our end: This makes me call to minde those foure short lines I lighted on this morning ere I forsooke my studie; take them as I finde them, though they are rime yet there is reason in them.</p>
+            <q>
+               <l>Cum recordor quod sum cinis,</l>
+               <l>Et quam eito venit finis;</l>
+               <l>Sine fine pertimesco,</l>
+               <l>Et vt cinis refrigesco.</l>
+            </q>
+            <p>I will English them onely for those who haue but their English only.</p>
+            <q>
+               <l>When I thinke that I am dust,</l>
+               <l>And how quickly hence I must;</l>
+               <l>It puts me to an endlesse fright,</l>
+               <l>Like ashes pale and bloudlesse quite.</l>
+            </q>
+            <p>
+               <note place="margin">3. Must.</note> But I come to the third point, which is the autho<g ref="char:EOLhyphen"/>ritie of the Act that decreeth it, for it comes in with authoritie, <hi>Must:</hi> must? <hi>Satis pro imperio.</hi> For what is the old saying? <hi>Must is for the King:</hi> true; there<g ref="char:EOLhyphen"/>fore wee must needs die, because the King of heauen
+<pb n="11" facs="tcp:2232:8"/> hath said it must be so. For, <hi>We must all appeare before</hi>
+               <note place="margin">2. Cor. 5. 11.</note>
+               <hi>the iudgement seat of Christ;</hi> must wee? why do we struggle then? shall we contend with God? can man resist this <hi>Must?</hi> mans might, the might of God; mans impotencie, Gods omnipotencie. Is it possi<g ref="char:EOLhyphen"/>ble? may we compare them then? alas what compa<g ref="char:EOLhyphen"/>rison between them? Lay them both together, and you shall find <hi>That</hi> no more to <hi>This,</hi> than weakenesse vnto strength, or the feeble Kidde, to the fearefull roaring Lyon; The odds is more between the worke<g ref="char:EOLhyphen"/>man and the worke, the Potter and the pot. I speake not of strong <hi>Hercules,</hi> whose labours were fictions all incredible; but of other Champions, such ones, as once were so indeed. Stout <hi>Samson, who with an Asses</hi>
+               <note place="margin">Iudg. 15. 15. Iudg. 16. 29. 30.</note>
+               <hi>Iawe bone slew a thousand men;</hi> and <hi>with his very hands pulled downe a fast-built-house vpon his enemies heads.</hi> And great <hi>Goliah,</hi> that huge Philistine, whose weapon was as a Weauers beame, which yet he brandished as easily as the strongest of our souldiers can weild their warlike speares. And those big-bon'd Gyants, the sonnes of <hi>Anak, who went about to build a Tower to</hi>
+               <note place="margin">Gen. 11. 4.</note>
+               <hi>reach to heauen, thereby to purchase to themselues an e<g ref="char:EOLhyphen"/>uerlasting name.</hi> I speake of these or the like to these; and what of these? say that, with such as these, the earth were all throughout replenished, and that the generall strength of these might meet in one, yet were it no more to the matchles power of God, which hath this most commanding <hi>Must</hi> in it, than the push of a bull-rush to the stroake of a speare, or the strength of the boy <hi>Iether</hi> to that of <hi>Gedeon</hi> his father. For <note place="margin">Iudg. 8. 20.</note> what is man, the mightiest man, take him in the prime
+<pb n="12" facs="tcp:2232:9"/> and glory of his age? <hi>his strength is not the strength of</hi>
+               <note place="margin">Iob 6. 12.</note>
+               <hi>stones, his body is not brasse,</hi> euery small misfortune thowes him downe, an Ache takes away the vse of all his limes, sicknesse brings him to the dores, vnto the gates, into the inner chambers of death; his flesh may soone be pierced, his breath slips out at a litle breach, his life leapes out at a litle hole, his spirit departs, and he returnes to his dust. This <hi>Dauid</hi> well considering, though his armes were made so strong, that they could break a bow euen of steele, yet hauing an eye to the incomparable power of God altogether to the disabling of his owne abilitie, hee humbly thus con<g ref="char:EOLhyphen"/>cludes of himselfe in the lowest stile, <hi>At ego sum ver<g ref="char:EOLhyphen"/>mis &amp; non vir, But I am a worme and no man;</hi> and yet <note place="margin">Psal. 22. 6.</note> hee was a King. <hi>O put not your trust in Princes,</hi> then (saith he) <hi>nor in any sonne of man, for there is no helpe in them, his breath departs, and he returnes to his earth,</hi>
+               <note place="margin">Psal. 146. 3. 4.</note>
+               <hi>and then all his thoughts doe perish.</hi> As for the power of the proudest Prince on earth, let him glory in it as he listeth, and solace himselfe in his tyrannous rule, as his owne heart fancieth, let him speake his pleasure:</p>
+            <q>
+               <lg>
+                  <l>Sic volo, sic iubeo, stat pro ratione voluntas.</l>
+               </lg>
+               <lg>
+                  <l>So I will, so I commaund.</l>
+                  <l>My will for reason good shall stand.</l>
+               </lg>
+            </q>
+            <p>yet alas this holds but a while, but a very little while, death quickly comes and cuts him off. God hath a will to curbe his will, and a <hi>Must</hi> beyond his <hi>Must,</hi> a Commaund that shall commaund both him and o<g ref="char:EOLhyphen"/>thers also, whereto both he, and they, and we, and All
+<pb n="13" facs="tcp:2232:9"/> must needs yeeld, <hi>For we must needs die. The Lawes of the Medes and Persians, which might not be altered,</hi> were <note place="margin">Dan. 6. 8. Esther 8. 8.</note> not so strong as this Law enacted in the Parliament of heauen, neuer to bee repealed, <hi>Statutum est omni<g ref="char:EOLhyphen"/>bus</hi>
+               <note place="margin">Heb. 9.</note>
+               <hi>semel mori, It is appointed for all men once to die.</hi> And <hi>Paul</hi> elsewhere illustrates this by an excellent si<g ref="char:EOLhyphen"/>militude, <hi>Thou foole that which thou sowest is not quick<g ref="char:EOLhyphen"/>ned</hi>
+               <note place="margin">1. Cor. 15 36.</note>
+               <hi>except it die.</hi> For as corne that is sowen must die before it be quickned, so our flesh in the earth must rot before it be raised: And as heere is a <hi>Must</hi> that brings vs hence to the graue, <hi>for we must needes die:</hi> so there is a <hi>Must</hi> that fetcheth vs thence out of the graue to heauen, <hi>This corruptible Must put on incorrup<g ref="char:EOLhyphen"/>tion,</hi>
+               <note place="margin">1. Cor. 15. 53.</note>
+               <hi>and this mortall Must put on immortalitie.</hi> Thus there is a double <hi>Must,</hi> from life to death, from death to life. This <hi>Must</hi> must be, ere that <hi>Must</hi> can be. For what thinke yee? hath life a <hi>licet,</hi> and hath not death an <hi>oportet?</hi> May we liue? we <hi>Must</hi> die. Wee may liue all awhile: tis true, it may bee so; but that wee <hi>must</hi> die all at last, is a truth inevitable, it <hi>must</hi> be so. Men may say and safely say, <hi>Wee may liue:</hi> but how long, it is hard to determine: I dare say it <hi>asseueranter,</hi> (and sweare it with an oath) that <hi>we must needs die.</hi> But to define, either <hi>when,</hi> or <hi>where,</hi> or <hi>how,</hi> or <hi>what</hi> our <hi>deaths</hi> shall be, were to enter into the scrutinie of Gods secrets; for we cannot say it, because it is vn<g ref="char:EOLhyphen"/>certaine, but be it must, <hi>we must needs die,</hi> that is cer<g ref="char:EOLhyphen"/>taine, it is one of the oracles of Gods doomes-day booke.</p>
+            <p>
+               <note place="margin">4. Needs.</note> But let me not wrong the point that followeth, by allowing it lesse time in the handling of it, than indeed
+<pb n="14" facs="tcp:2232:10"/> it is worthy of. The time runs on, &amp; this to the former sticks very close, they do both (as it were) hold hand in hand as loath to be parted; For alwaies, what <hi>must needs</hi> be, <hi>must</hi> be. And though not alwaies, yet some<g ref="char:EOLhyphen"/>times what <hi>must</hi> be, <hi>must needs</hi> be. As heere, because (you see) <hi>authoritie</hi> begets <hi>necessitie,</hi> &amp; <hi>necessitie</hi> is ap<g ref="char:EOLhyphen"/>pendāt to <hi>diuine authoritie;</hi> Gods <hi>oportet</hi> hath fast by it a <hi>necesse est,</hi> his <hi>must</hi> hath a <hi>needes,</hi> and I must <hi>needes</hi> ioyne them, <hi>for we must needs die.</hi> The saying is olde, <hi>Durum telum necessitas, Neede maketh the old wife trot;</hi> shee will trot for life, I'le warrant you; Me thinkes the consideration of this <hi>neede,</hi> this necessitie of death, this <hi>wee must needs die,</hi> this deadly <hi>neede</hi> should make old and yoong, trudge and trot for life, not this, but that life which endureth euer. The rigour of this fa<g ref="char:EOLhyphen"/>tall necessitie, infoldeth all of all degrees, from which there is no euasion by shifts or tergiversation; time is the winding-sheet of all things, no age, no sexe priuiledged from the graue. In the world is sea and land; our life in the world resembles both. Is there a sea? is our life so too? tis <hi>Mare amarum</hi> then, a bitter &amp; vnsauorie Sea, which we must <hi>needs</hi> sayle through in this slender Barke of our bodies; we must <hi>needes</hi> at last shoot the gulph and depth of death, before wee can put into the hauen, Heauen. Is there land? is our life so too, 'tis <hi>Terra spinosa &amp; petrosa</hi> then; a thornie and stonie plot, ill ground for a race, yet if we would <hi>needes</hi> runne it well, we must <hi>needes</hi> runne it out, full to the end, to the last Poste, <hi>Death,</hi> before we can winne the bell, the goale, and beare away the reward of endlesse glory; which glory in eternall life we cannot come to, but by a temporall death.</p>
+            <pb n="15" facs="tcp:2232:10"/>
+            <p>This is the ordinary passage hence to heauen, there is no by-way, this is <hi>Regia via</hi> the Kings high-way, no way but this common-way to the Court, where the King is, no way but by death vnto life in heauen where the Lord of life is; for wee must needes die if we would needes liue, die once to liue euer. If it bee needefull then, that we die, we ought to make a ver<g ref="char:EOLhyphen"/>tue of this necessity, we should not now repine at it, since no man can resist it, but rather should embrace it, since it bringeth vs such a benefite, as the end of all our misery, and an entrance into glory. But ô blessed <hi>neede</hi> what is thine entertainement in the world? art thou thus receiued with patience? it is patience per<g ref="char:EOLhyphen"/>force then: for most men striue against this mortall <hi>Neede,</hi> and neuer yeeld till they must needes, no nor then though needes they must. If it were not so why struggle and striue they in their sickenesse so much for life as commonly they doe; when nature cannot help art, nor art comfort nature, and beyond these when God (perhaps) is pleased to with-hold his blessing from both (which if it be wanting all meanes can do nothing) yet still there is a stirre; Phi<g ref="char:EOLhyphen"/>sitions and Surgeons must come with their purges and plaisters, the Cooke in the kitching must make broathes and cullases, the Mistris seeke her closet for the soueraignest restoratiues, seruants trudge to and fro, clothes must be heated, beddes warmed, heades held fast, bodies boulstered vpp, standers by pitty<g ref="char:EOLhyphen"/>ing, friends sighing, children mourning, their eyes streaming, their hands wringing, their hearts aking, Lord what a stirre is heere, and to how little purpose,
+<pb n="16" facs="tcp:2232:11"/> that when all is done, wee must <hi>needes die.</hi> For wee must needes goe on our way, the right way we were borne to, the great beaten way, the vniuersall way of all slesh, wee must needes goe home to our surest home, to our last home, euen to this long home of my text, <hi>wee must needes die.</hi> It must needes be so: <hi>needes?</hi> and why <hi>needes?</hi> surely we cannot be clothed with heauens glory, but first wee must needes be vn<g ref="char:EOLhyphen"/>clothed of earths misery, we cannot enioy life there, but first we must needs suffer death heere; we cannot govp to that pallace aboue but first we must needs go out of this prison below; so if then, we would needs liue, certainly now we must needes die; and thus from the necessity I come to the mortality it selfe, which is the last word and the last part, the end of my Text and the end of vs all; <hi>Die.</hi>
+            </p>
+            <p>
+               <note place="margin">5 Mortality.</note>
+               <hi>Die]</hi> Marke how strongly this last point is here confirmed; we must needes die, why? God in <hi>Scrip<g ref="char:EOLhyphen"/>ture</hi> saies it, God by <hi>Nature</hi> shewes it, and this wee know is true by <hi>Word</hi> and by <hi>Experience,</hi> infallible proofes both. First God by <hi>Moses,</hi> God by <hi>Ieremy,</hi> God by <hi>Iob,</hi> God by many others in his holy booke doth tell vs that these our Corporall Coppyholds are not inheritance here; ticklish states; taken only for terme of life, and how long that may be, or how short it shall be, who can say? a doubtfull lease, a tenure quickely crased, and by many casualties forfeited; what saith God by the mouth of <hi>Moses?</hi> enough to daunt the courage of the proudest were it rightly thought on; for none of all the sonnes of <hi>Adam</hi> could euer hitherto, or hence foorth euer shall, from
+<pb n="17" facs="tcp:2232:11"/> this day to the day of the generall Assises, frustrate this irreuocable doome <hi>Dust thou art, and into dust thou</hi>
+               <note place="margin">Gen 3. 19</note>
+               <hi>shalt returne: E puluere puluis in puluerem,</hi> of dust thou wast, now dust thou art, into dust thou shalt; what nothing but dust? then the which nothing more vile? stones are good for something, clay is good for something, dirt is good for something, dust is good for nothing, therof man was formed, there<g ref="char:EOLhyphen"/>to man is turned. The Prophet <hi>Ieremy</hi> secondeth this with a treble Acclamation: <hi>ô earth, earth, earth, heare</hi>
+               <note place="margin">Ier. 22. 29</note>
+               <hi>the word of the Lord.</hi> Earth thou camest hither, earth thou staiest here; earth thou goest hence: Earth thy first foundation, earth thy middle mansion, earth thy last resolution. Now <hi>Iob</hi> commeth in with a cut<g ref="char:EOLhyphen"/>ting knife and loppes the flower-like life of man, with a sharpe saying more keene then any razor: <hi>Man com<g ref="char:EOLhyphen"/>meth vp and is cutte downe like a flower.</hi> What cut and <note place="margin">Iob. 14 2.</note> cut downe? here is a cut with a witnesse, a downe right swath, done by the edge of <hi>Saturnes</hi> sieth who was the Pagans god of time, wearing out the beauty and brauery of the world into ragges; ragges into rottennes, and a rufull end of all. An end? nay, it were well for the wicked if that were an end, for the end of this soone ended life, is to them the beginning of a neuer-ending death. Againe marke the wordes, <hi>Man commeth vp and is cut downe like a flower;</hi> so man is vpp; vp and cut downe, downe as assoone as he is vp; vp and straight downe, no sooner vp but instantly downe; what a no-middle vp-and-downe creature is man! <hi>Iob</hi> makes no mention of any stay, as if mans time of continuance were not worth, the speaking of; now he commeth into the world; anon he goeth
+<pb n="18" facs="tcp:2232:12"/> out of the world, now in and anon out, Lord what an in-and-out vncertaine creature is man! Hee saith further <hi>(like a flower)</hi> which is flourishing and fading and all in a summer. <hi>Iob</hi> determineth the times as the men of <hi>Bath</hi> reckon the seasons, (pardon me in the comparison, that wonderous place giueth me cause to loue it well) there is no talke there of midsum<g ref="char:EOLhyphen"/>mer and as little of midwinter, all is <hi>spring</hi> and <hi>fall</hi> there. O that we would looke to the <hi>Day-spring</hi> as<g ref="char:EOLhyphen"/>well as the <hi>yeere-spring;</hi> the light of Gods counte<g ref="char:EOLhyphen"/>nance as the increase of our substance; and no lesse re<g ref="char:EOLhyphen"/>gard the fall of our life, then the fall of the leafe; as the leafe must vanish so life must perish, <hi>for we must needes die.</hi> Out of <hi>Adams</hi> state in paradise may be fetch't fiue forcible Motiues that may stirre men vpp to a ready remembrance of their present mortality: 1. The Matter whereof man was made. 2. The Name whereby man was called. 3. The Apparell wherewith man was clothed. 4. The Labour wher<g ref="char:EOLhyphen"/>about man was busied. 5. The interdiction where<g ref="char:EOLhyphen"/>with man was charged. By these in <hi>Adams</hi> glasse thou maiest see the face of thine owne deformity. By these in <hi>Adams</hi> fall thou maiest veiwe the flesh of thine owne frailtie. By these in <hi>Adams</hi> ruine thou maiest behold the Mappe of thine owne misery. By these and euery one of these,</p>
+            <q>
+               <lg>
+                  <l>Ipse iubet mortis te meminisse Deus,</l>
+                  <l>Author qui vitae est.</l>
+               </lg>
+               <lg>
+                  <l>Lifes Author God who giues thee breath,</l>
+                  <l>Bid's thee be mindfull of thy death.</l>
+               </lg>
+            </q>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> First the matter whereof man was made, <hi>the dust,</hi> the clay or slime of the earth: Man is then an ear<g ref="char:EOLhyphen"/>then <note place="margin">Gen. 2. 7.</note>
+               <pb n="19" facs="tcp:2232:12"/> vessell <hi>vas fragile &amp; fractu facile;</hi> brittle and easily broken: therefore must needes die. <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, the name whereby man was called <hi>Adam, i. Terrenus</hi> of the earth. <hi>Homo ab humo;</hi> Man of the ground, that hearing his name he might thinke on the matter, and the base rubbish whereof he was formed, and so re<g ref="char:EOLhyphen"/>solue that he must needes die. <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, the Apparell wherewith man was clothed; we read <hi>Gen.</hi> 3. 21. vn<g ref="char:EOLhyphen"/>to <note place="margin">Gen. 3. 21</note>
+               <hi>Adam</hi> and his wife did the Lord God make coates of skinnes and clothed them therewith: It may bee eithet Lyon-skinnes, or Beare-skinnes, or Goate-skinnes, or Calue-skinnes or the like, that beholding the garments on their backes which came from the backes of dead beasts, they might be put in minde of their endes, and so bee perswaded that they must needes die. <milestone type="tcpmilestone" unit="unspecified" n=". 4"/> Fourthly, the labour whereabout man was busied, for God commanded him to <hi>plow, to digge</hi>
+               <note place="margin">Gen. 3. 23</note>
+               <hi>to till the earth.</hi> That so often as he turned vp the earth with either spade or plowshare, he might remember his graue, the earth whence he came and whether he must, and so bee satisfied that hee must needes die. <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fiftly, the commination wherewith man was threat<g ref="char:EOLhyphen"/>ned. First, before he sinned, <hi>In the day that thou eatest thereof thou shalt die the death, Gen</hi> 3. 3. Secondly, af<g ref="char:EOLhyphen"/>ter <note place="margin">Gen. 3. 3.</note> transgression, <hi>In the sweate of thy face thou shalt eate thy bread, till thou returne to the earth out of which thou wast taken, because thou art dust and to dust thou shalt goe,</hi>
+               <note place="margin">Gen. 3. 19</note>
+               <hi>Gen.</hi> 3. 19. All these did directly proue to the first mans face that he must needes die.</p>
+            <p>Next what saith nature? is there a <hi>Generatur?</hi> there must be a <hi>Corrumpitur;</hi> euery <hi>oritur</hi> must haue a <hi>mo<g ref="char:EOLhyphen"/>ritur.</hi> Is there an <hi>introitus</hi> there must be an <hi>interritus;</hi>
+               <pb n="20" facs="tcp:2232:13"/> euery beginning must haue an ending: <hi>Vitam accept<g ref="char:EOLhyphen"/>mus</hi>
+               <note place="margin">Senec.</note>
+               <hi>à natura vt reddamus, ingredimur vitam vt exeamus,</hi> We receiue a life of nature to render it, we enter into a life to go out of it. There is not an <hi>intrat</hi> without an <hi>exit</hi> in this lifes <hi>tragedie;</hi> a very <hi>tragedie</hi> wee are borne crying, we crie dying, we come in with moane and go out with a groane; let life haue leaue to flaunt it, and braue it, and pompe it awhile on the stage of this world, yet all is but a flourish, all is but a flash <hi>Death</hi> still plaies <hi>Rex,</hi> strikes all the <hi>Actors,</hi> one after one with a mortall blow; there may be a little mirth in the middest, but <hi>Death</hi> at the last strongly steppes vp and grimmely comes in with a terrible <hi>Epilogue</hi> &amp; concludes all; so <hi>Death</hi> makes an end; so <hi>Death</hi> in the end is the end of the play, <hi>for we must needes die.</hi> But alas is there no remedie <hi>must</hi> we die? <hi>Needes</hi> die? <hi>must</hi> life away? <hi>Needes</hi> away? yes; none can saue it, but God that gaue it, he will haue it: at the Lords hand we first receiued it, and must surrender it into the Lords hand againe: <hi>Lord</hi> and <hi>Seruant, Master</hi> &amp; <hi>Hand<g ref="char:EOLhyphen"/>maide, God</hi> and <hi>Nature,</hi> (as you haue heard) are agreed vpon the point; <hi>Her</hi> dutifull submission to his Im<g ref="char:EOLhyphen"/>perious <hi>must,</hi> must needes make all men mortall, all men die: if <hi>He</hi> command, <hi>She</hi> must obey; if <hi>he</hi> say I will do it, <hi>she</hi> must say thy will be done: <hi>she</hi> must an<g ref="char:EOLhyphen"/>swere her <hi>maker</hi> as the <hi>Clarke</hi> doth the <hi>Priest;</hi> if <hi>he</hi> be<g ref="char:EOLhyphen"/>ginne with a <hi>be it so, she</hi> must end with a <hi>so be it:</hi> to conclude, what <hi>he</hi> once concludes, <hi>she</hi> must sound her <hi>Amen</hi> to the same conclusion; shall I thus con<g ref="char:EOLhyphen"/>clude? if I should, is not Amen a good conclusion? true, placed where it should be: but here it presseth vpon vs a little too soon, let Amen be the last; Amen
+<pb n="21" facs="tcp:2232:13"/> best commeth in when all is out, and why not now? is not the glasse runne and the houre all out? It lackes but a little: It is high time then that I begin to binde vp my speech into a conclusion. Some of good note are at this time assembled to celebrate this funerall; some as lookers on are come to obserue the manner of the solemnity; the whole number of hearers (if it be as I beleeue) affecting Maries choise are met for the best thing, whereof in the closet of their hearts I trust they will treasure vp somthing; of you all I craue now at last only this one thing, that when you goe hence; among others things you would carry away with you nothing. I neede not desire this, it is easily done without intrety: but indeed soundly to cōsider that the body you beare about you is nothing if you looke directly on your mortall condition, here is the point, he that wel learnes nothing thus, neuer learned a better lesson, therefore I pray learne nothing well; learne well I meane what nothing meanes; there is a little lecture laid out in a line whereof a good con<g ref="char:EOLhyphen"/>struction may be made,</p>
+            <q>
+               <lg>
+                  <l>Vertitur in nihilum quod fuit ante nihil.</l>
+               </lg>
+               <lg>
+                  <l>The same which was nothing in former times past.</l>
+                  <l>Is turn'de into nothing againe at the last.</l>
+               </lg>
+            </q>
+            <p>Purge it from <hi>Paganisme,</hi> and put it into a Christian sense, then it hitt's vs all home. The <hi>Beginning, No<g ref="char:EOLhyphen"/>thing,</hi> the <hi>Ending, Nothing,</hi> what's the middle then? <hi>quod fuit,</hi> that that was; what's that, <hi>Nihil, nothing.</hi> And let that be Dust. For as Dust in respect of any other substance, is the vilest substance of all, so the dead carcase, in respect of any excellent substance, is said to bee nothing, or no substance at all. <hi>Dauid</hi>
+               <pb n="22" facs="tcp:2232:14"/> could say little lesse of the liuing, and may not I say so much of the dead? Yes verily; of the former it may be affirmed with a <hi>verily,</hi> the Prophets owne asseue<g ref="char:EOLhyphen"/>ration, <note place="margin">Psal 39. 6.</note>
+               <hi>Verily euery man liuing is altogether vanitie. Va<g ref="char:EOLhyphen"/>nitie</hi> is a poore silly something, if it be any thing; nay to strippe all <hi>Adams</hi> brood out of all conceit of their owne worthinesse, hee saith, that all the children of men, being weighed vpon the ballance are deceitfull <note place="margin">Psal. 62. 9.</note> vppon the weights and cannot beare scale, no not with nothing it selfe, that they are altogether lighter then vanitie or inanitie, <hi>Nihili nihil,</hi> the nought of no<g ref="char:EOLhyphen"/>thing. I say not so much of the latter, for if the dead body bee nothing; it is onely <hi>Nihil tale,</hi> no such thing as it was. The body is nothing so, when it is dead, as erst before it was when it liued, because that through the seuerall Organs thereof (the soule being depar<g ref="char:EOLhyphen"/>ted) for a while it leaueth (not wholy looseth) the liuely vse of all it's faculties, and is so nothing. The eye nothing, because the sight nothing, for the eye cannot see, and so of the rest, for <hi>Omnes corporis sensus, Visus, Olfactus, Gustus, Tactus, Auditus, in morte nihil,</hi> All the bodies sences of <hi>Seeing, Smelling, Tasting, Tou<g ref="char:EOLhyphen"/>ching, Hearing,</hi> in death are nothing, and are put to si<g ref="char:EOLhyphen"/>lence and vnprofitablenesse in the graue: neither can the maintenance of this point thus, make any whit a<g ref="char:EOLhyphen"/>gainst the sweet and comfortable doctrine of the re<g ref="char:EOLhyphen"/>surrection of the dead, for it sheweth onely a dissolu<g ref="char:EOLhyphen"/>tion, not an abolition or annihilation of the parts; for though the body go into dust, &amp; that dust into it's elements, and those elements appeare not, and so doe seem nothing, yet God will picke out the parcells, and distinguish the seueralls of all, whether drowned in
+<pb n="23" facs="tcp:2232:14"/> the water, or deuoured by beasts, or burnt in the fire, God can and will set all scattered ashes, all diuided dusts, all separated parts together, to make vp their owne proper totall, and put them into their first-foun<g ref="char:EOLhyphen"/>ded structure, euen to an haire.</p>
+            <q>
+               <lg>
+                  <l>—nec me nec dente nec vngue <note place="margin">Prudent.</note>
+                  </l>
+                  <l>Fraudatum reuomet patefacti fossa sepulchri.</l>
+               </lg>
+               <lg>
+                  <l>Nor shall the deepe wide graue (the bodies Iayle)</l>
+                  <l>Cast me'vp at last with losse of tooth or nayle.</l>
+               </lg>
+            </q>
+            <p>So speaketh <hi>Esay, Thy dead men shall liue; with their body shall they rise; Awake and sing yee that dwell in the</hi>
+               <note place="margin">Esay 26. 19.</note>
+               <hi>dust, for thy deaw is as the deaw of hearbes, and the earth shall cast out the dead.</hi> Heere the Prophet resembleth the resurrection of the righteous vnto the deaw of hearbes; for as hearbes dead in winter, flourish again by the rayne in the time of the spring; so they that lye dead in the dust, shall rise vp to ioy, when they feele the deaw of Gods quickning grace in the resurrection of the iust. So saith <hi>Iohn; I saw the dead both small &amp;</hi>
+               <note place="margin">Reuel. 20. 12. 13.</note>
+               <hi>great stand before God, and the Sea gaue vp her dead which were in her, and Death and Hell deliuered vp the dead that were in them, and they were iudged euery man, according to their works. And maruell not at this</hi> (saith Christ our Sauiour) <hi>for the houre shall come, when all</hi>
+               <note place="margin">Ioh. 5. 28. 29.</note>
+               <hi>that are in the graues shall heare the voice of the sonne of God; And they shall come forth that haue done good to the resurrection of life, but they that haue done euill to the resurrection of condemnation.</hi> So (you see) God will raise the dead all, and all out of all places. Hee will fetch them vp all againe, and all againe the same, no other but the same, the very same, the selfe-same, though in qualitie altered from the same, yet in sub<g ref="char:EOLhyphen"/>stance
+<pb n="24" facs="tcp:2232:15"/> still the same, as <hi>Iob</hi> profoundly, <hi>I</hi> (now the <note place="margin">Iob 19. 25. 26.</note> same) <hi>shall rise</hi> (hereafter the same) <hi>out of the earth</hi> (there and thence the same) <hi>at the last day</hi> (then the same) <hi>and shall see God in this my flesh, and shall behold him not with other but with</hi> these) <hi>same eies.</hi> As then (being dead) we are nothing, not absolutely, but in respect; so (being aliue) we are now likewise nothing, &amp; that in respect of our first <hi>creation,</hi> or our future <hi>glo<g ref="char:EOLhyphen"/>rification:</hi> as may appeare by the right answers vnto these fower interrogatorie <hi>Heroicks</hi> significant e<g ref="char:EOLhyphen"/>nough, though rudely framed:</p>
+            <q>
+               <lg>
+                  <l>Quid primò fuimus primi patris ante reatum?</l>
+                  <l>Esse quid antiqua nostra ambitione velimus?</l>
+                  <l>Quid posthac erimus quum nos haec vita relinquit?</l>
+                  <l>Esse quid hoc fragili debemus &amp; orbe fruentes?</l>
+               </lg>
+               <lg>
+                  <l>What were we first ere our first Fathers fall?</l>
+                  <l>What would we be once in our old Ambition?</l>
+                  <l>What shall we be when this life leaues vs all?</l>
+                  <l>What should we be in this fraile worlds fruition?</l>
+               </lg>
+            </q>
+            <p>Let vs answer heere to 1. What we were. 2. What we would be. 3. What we shall be. 4. What we should be. 1. What were we in our first Creation? we were then in the state of innocencie; wee are no<g ref="char:EOLhyphen"/>thing now in respect of that. 2. What would wee bee by our Ambition? wee would bee once like God himselfe; wee are nothing now in respect of that. 3. What shall we be in Glorification? we shall bee as the glorious Angels; wee are nothing now in re<g ref="char:EOLhyphen"/>spect of that. 4. What should we be in Sanctifica<g ref="char:EOLhyphen"/>tion? wee should bee holy as our heauenly Father is holy; we are nothing now in respect of that. But I haue abused your patience too long with nothing, by
+<pb n="25" facs="tcp:2232:15"/> making too much adoe about nothing. Let me now end with something of this late something, new no<g ref="char:EOLhyphen"/>thing, now nothing, as nothing. So the Prophet <note place="margin">Esay 40.</note> doth tell vs; <hi>God sitteth on the circle of the earth, and the inhabitants in comparison of him are but as Grashop<g ref="char:EOLhyphen"/>pers: he maketh the Princes of the earth as nothing, the Iudges of the land nothing, the people nothing, as if they were neuer planted, neuer sowen, for he but blowes vpon them and they wither, and the whirlewinde takes them away like straw.</hi> The Lord speakes this, despise it not: here's one shewes this, then doubt it not: if the audi<g ref="char:EOLhyphen"/>ble voice of the speaker cannot perswade thee, let the visible obiect, the dumb Actor, lying heere in deaths bosome winne credit with thee:</p>
+            <q>
+               <lg>
+                  <l>Si mihi non credes, experto crede Iohanni.</l>
+               </lg>
+               <lg>
+                  <l>In this if thou wilt not giue credit to me,</l>
+                  <l>Let Iohn who hath tryed it heere credited be.</l>
+               </lg>
+            </q>
+            <p>I speake not of the liuing to the dead, <hi>Mortui non ha<g ref="char:EOLhyphen"/>bent aures, the dead doe not heare.</hi> But I speake of the dead to the liuing, <hi>Non desunt viuentibus aures,</hi> The liuing haue eares and must heare, vnlesse they will be like those <hi>deafe adders,</hi> &amp; those <hi>dead Images,</hi> which <note place="margin">Psal. 135.</note>
+               <hi>Dauid</hi> speakes of, the one that haue stopt eares, and will not; the other, that haue vncircumcised eares, and cannot heare: But as the Papists say, Images are <hi>Laicorum libri, Lay-mens bookes:</hi> so may I say, that these dead Images, are <hi>Viuorum libri,</hi> Liuing mens bookes, wherein euery one may plainely read a true lesson of his owne inevitable mortalitie. The Dead praise not God, nor pray to God for the liuing. For <hi>who will giue thee thankes in the pit?</hi> But the Liuing <note place="margin">Psal. 115.</note> must praise God for the dead that die in the Lord, <hi>for</hi>
+               <pb n="26" facs="tcp:2232:16"/>
+               <hi>the righteous must be had in an euerlasting remembrance.</hi>
+               <note place="margin">Psal.</note>
+               <hi>Hic iacet in loculo,</hi> Heere he lyeth in a coffin, wrapt in his winding sheet, now to be laid in his graue, there to rest for a while, till that voice comes, <hi>surgite mortui</hi> and then shall hee presently rise with a <hi>Gloria Patri.</hi> It ill becomes any man, either flatteringly to adde more, or iniuriously to giue lesse to the dead then is due. God blessed him euery way most gratiously, in himselfe and his. The bright fauours of his heauenly Maker began to shine on him betime, and so conti<g ref="char:EOLhyphen"/>nued towards him till the euening and sun-set of his life. Blessings embroydered, enfolded vpon him, God from heauen powred downe blessing vpon blessing with a full horne, <hi>Temporall, Corporall, Spiri<g ref="char:EOLhyphen"/>tuall:</hi> faire possessions, propagation of a sweet pro<g ref="char:EOLhyphen"/>genie, children and childes children.</p>
+            <p>The naturall and comely lims out of the body of this tree spreading, are in number iust so many, as the world hath parts, and from the chiefe of these sprout forth a many of little, pretty, tender blessed Oliue branches, that sit round about the Fathers table. And who might not finde in this late liuely patterne of pie<g ref="char:EOLhyphen"/>tie, now present spectacle of our mortalitie, a commendable expressing of himselfe to all in a faire plaine-meaning fashion, without curious and affe<g ref="char:EOLhyphen"/>cted complements, now in vse with the most, the no<g ref="char:EOLhyphen"/>table disguisements of deep hypocrisie. Adde here<g ref="char:EOLhyphen"/>unto that humerous and fantasticall vanitie of chan<g ref="char:EOLhyphen"/>geable and chargeable suites of clothes; silken out<g ref="char:EOLhyphen"/>sides on the backe, shewes of swelling insides at the heart: outward ensignes of inward pride: these were most distastefull (I may say hatefull) to him euer: I
+<pb n="27" facs="tcp:2232:16"/> may not forget that which was very remarkeable in him, and which is rare in these daies, that he was an extraordinarie-good Tennants Lord, not racking or griping to grinde the faces of the poore. And there<g ref="char:EOLhyphen"/>fore Christ his Sauiour hath receiued him into his ho<g ref="char:EOLhyphen"/>ly habitations, as a Tenaunt in one of those many mansions that are in his Fathers house. A citizen, a free denyson of the new Ierusalem that is in heauen.</p>
+            <p>And that I may giue a true and deserued testimony of his vertuous and Christian carriage, worthily ma<g ref="char:EOLhyphen"/>nifesting his liuely faith working by charity. He was the same he shewed himselfe to bee, commendably courteous vnto strangers, very kind to honest passen<g ref="char:EOLhyphen"/>gers, truely comfortable to his neighbours, dearely tender to his friends, exceeding mercifull to his ene<g ref="char:EOLhyphen"/>mies, admirably patient in all his crosses, compassio<g ref="char:EOLhyphen"/>nately pittying the state of the poore, not enuiously repining at the increase of the rich, euer intirely lou<g ref="char:EOLhyphen"/>ing to all: This faith of his, thus built vpon the foun<g ref="char:EOLhyphen"/>dation of the Prophets &amp; Apostles <hi>Iesus Christ</hi> him<g ref="char:EOLhyphen"/>selfe being the head <hi>corner stone,</hi> hath now brought him to the state of immortality, &amp; made him a bles<g ref="char:EOLhyphen"/>sed Saint in the kingdome of glory. And to end with his end, because the end of a man perfectly tryeth a man, let the world know that <hi>God</hi> armed him with heauenly preparations all the time of his languishing sicknes till he came <hi>vs{que} ad metam,</hi> euen to the end of the goale; and being one of the chiefest among those many within that Charge whereof the holy Ghost hath made me an ouer-seer, loue &amp; duty brought me often to him, and knowing it to be the best office, &amp; fearing it would be the last seruice that euer I should
+<pb n="28" facs="tcp:2232:17"/> doe him, I followed him with such necessary instru<g ref="char:EOLhyphen"/>ctions as men in such cases do most stand in neede of, which God enabled mee then to deliuer, and stren<g ref="char:EOLhyphen"/>gthened him effectually then to receiue. And where<g ref="char:EOLhyphen"/>as not long before hee left the world (euen in his death-bedde) he desired to haue his heart comforted with the pledge of Christs loue, that thereby the re<g ref="char:EOLhyphen"/>membrance of his sweete Sauiours death for his sin might be stampt with a deepe impression on his heauen-thirsty soule, &amp; that by the Sacrament and seale of his assured saluation by the body &amp; bloud of his blessed Redeemer, I did then receiue from him such a full confession of his faith, profession of his pi<g ref="char:EOLhyphen"/>ety, detestation of his sinnes, petition &amp; supplication for forgiuenes, that nothing more could be expected from a Christian man; telling mee he had an appre<g ref="char:EOLhyphen"/>hension that he should not long continue here, with manifest tokens of a most sanctified &amp; lamb-like pa<g ref="char:EOLhyphen"/>tience, reuerently yeelding infinite thankes to GOD who had so humbled him before his death, &amp; vouch<g ref="char:EOLhyphen"/>safed him so large &amp; pretious a time of repentance; It pleased the Lord then; to let his seruant with <hi>Si<g ref="char:EOLhyphen"/>meon</hi> depart in peace, peace in the assured merits and mercies of his crucified Redeemer, of which peace he hath now plentifull fruition with the God of peace in the kingdome of Glory, wherunto the Lord bring vs all for his mercies sake, by the merites of his onely sonne our blessed Lord and Sauiour Iesus Christ, Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:2232:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
